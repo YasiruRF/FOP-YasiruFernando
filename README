@@ -1,0 +1,23 @@
+##Synopis
+Assignment of Fundamentals of Programming COMP1005
+
+##Contents
+map.py - contains the main code of the assignment.
+object_placement.py - contains code for map building.
+objects.py - file containing all the item and block classes.
+colours.csv - CSV file containing data about tree colours and house colours
+Project_Report_22345563.pdf - project report for the assignment
+UML_diagram.JPEG - Image containing the UML class diagram of the programme.
+README - Readme file of the assignment.
+
+##Dependencies
+Matplotlib
+Numpyy
+Random
+Math
+Argparse
+OS
+CSV
+
+##Version information
+2024/10/15 Initial version of Assignment programs
